@@ -6,8 +6,6 @@ Gesture controller for media player with [MediaPipe](https://mediapipe.dev/), [V
 # Contents
 * [About](#about)
 * [Setup](#setup)
-* [Usage](#usage)
-* [Gesture Guide](#gesture-guide)
 
 <br />
 
