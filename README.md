@@ -23,7 +23,7 @@ A tool for using gestures to control the video playback in VLC media player.
 * Ensure that you have VLC installed on your computer
 * Open your Terminal/CMD and type the command below
 * `$ pip install -r requirements.txt`
-* Run main.py
+* Run main.py `$ python3 main.py`
 
 
 <br />
